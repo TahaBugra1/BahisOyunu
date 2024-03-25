@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Taha Bu\u011Fra\\source\\repos\\NumaraTahminOyunu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7351EF2C-092B-4B33-AD05-554A8AC69588}|NumaraTahminOyunu.vcxproj|C:\\Users\\Taha Bu\u011Fra\\source\\repos\\NumaraTahminOyunu\\tahminOyunu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7351EF2C-092B-4B33-AD05-554A8AC69588}|NumaraTahminOyunu.vcxproj|solutionrelative:tahminOyunu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tahminOyunu.cpp",
+              "DocumentMoniker": "C:\\Users\\Taha Bu\u011Fra\\source\\repos\\NumaraTahminOyunu\\tahminOyunu.cpp",
+              "RelativeDocumentMoniker": "tahminOyunu.cpp",
+              "ToolTip": "C:\\Users\\Taha Bu\u011Fra\\source\\repos\\NumaraTahminOyunu\\tahminOyunu.cpp",
+              "RelativeToolTip": "tahminOyunu.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-24T21:19:08.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

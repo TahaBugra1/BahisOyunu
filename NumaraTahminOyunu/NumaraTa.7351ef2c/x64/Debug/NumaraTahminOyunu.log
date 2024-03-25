@@ -1,0 +1,3 @@
+﻿  tahminOyunu.cpp
+C:\Users\Taha Buğra\source\repos\NumaraTahminOyunu\tahminOyunu.cpp(9,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  NumaraTahminOyunu.vcxproj -> C:\Users\Taha Buğra\source\repos\NumaraTahminOyunu\x64\Debug\NumaraTahminOyunu.exe
